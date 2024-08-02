@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/BlessingEmejulu/my-social-links](https://github.com/BlessingEmejulu/my-social-links)
+- Live Site URL: [https://blessedtechiesocials.netlify.app/](https://blessedtechiesocials.netlify.app/)
 
 ## My process
 
@@ -45,7 +45,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Blessing Emejulu](https://www.your-site.com)
+- Website - [Blessing Emejulu](https://github.com/BlessingEmejulu/my-social-links)
 - Frontend Mentor - [@BlessingEmejulu](https://www.frontendmentor.io/profile/BlessingEmejulu)
 - Twitter - [@BlessedTechie](https://www.twitter.com/BlessedTechie)
 
